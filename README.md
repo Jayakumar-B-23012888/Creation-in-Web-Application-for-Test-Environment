@@ -43,8 +43,8 @@ cd /var/www/html
   </html>
 ```
 ## OUTPUT
-### REG NUMBER: 212222240094
-### NAME: Shaik Shoaib Nawaz
+### REG NUMBER: 212223040073
+### NAME: Jayakumar B
 1. Terminal:
    ![Screenshot 2024-11-21 195003](https://github.com/user-attachments/assets/23284f4b-363c-40ad-ba29-7594e6011dcd)
 
